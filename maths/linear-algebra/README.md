@@ -1,0 +1,1 @@
+`mfp-exercise` contains code developed while working through the book "Maths for Programmers" by Paul Orland. 
